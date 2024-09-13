@@ -1,7 +1,4 @@
 # YumRide 🍔
-<!--This is a comment in a Markdown file-->
-
-<h3>🔰 Demo Video About this Web Application : https://youtu.be/t8QaBHU6ihk </h3>
 
 ### Key Features for Customers 💁
 
@@ -36,23 +33,6 @@
 </p>
 
 
-#### 🔒 Sample Login Credentials 
-
-```sh
-Customer Login Details
-
-         Email:sadeesha@gmail.com
-         Username:sadee
-         password:123
-
-Admin/Staff Login Details
-
-         Email : Saman@gmail.com
-	     Username : sam
-	     Pasword : 1234
-
-```
-
 <h3>Used Technology Stack</h3>
 
 
@@ -69,8 +49,6 @@ Admin/Staff Login Details
 <h3>Used Tools and Applications</h3>
 
 -  Eclipse Oxygen IDE
-  
-    (Note: You use can different version of Eclipse or different IDE. But Folder structure is different in other IDE )
   
 -  Tomcat 9 Server
   
@@ -98,44 +76,3 @@ Admin/Staff Login Details
 - 💎 Admin Portal: A user-friendly admin dashboard for administrative purposes.
 
 
- We encourage students,developers and technology enthusiasts to explore and learn from our implementation.
-
-
-We are proud of the hard work and dedication poured into this project and hope that sharing it on GitHub will inspire others to innovate and contribute to the advancement of technology in the food industry.
-
-
-<h3>⚙️ Set Up Guide</h3>
-
-```sh
-1.Download & Install Above Tools and Applications.
-
-2.Clone this repository or download the code and import folder into Eclipse IDE.
-
-3.Create a database name "yumride" in SQL Workbench.
-Note: Make sure to change password according to your workbench password to connect database to this application.
-
-4.After creating database run "SQLQueries.sql" file in MySQL Workbench.
-
-5.Finally Run the application on Tomcat server.
-
-```
-
-<h3>About Contributions 👨‍💻 </h3>
-
-Clone or download this repository to access the codebase and contribute to its continuous improvement. Feel free to raise issues, provide feedback, and submit pull requests, as we believe in the power of collaboration and open-source development🫂
-
-As the project leader, I'd like to thank each project member for their dedicated contributions to their respective tasks 🙏
-
-
-
-<h3 align="left">Ask Me Anything 🤝</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sadeesha-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeesha-perera" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sadeesha.b.perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadeesha.b.perera" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sadeesha_b_perera_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadeesha_b_perera_" height="30" width="40" /></a>
-</p>
-<br>
-
-
-
-Thank you for visiting our repository, and we look forward to your active involvement in making the Online food ordering system even more exceptional!
